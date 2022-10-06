@@ -21,6 +21,7 @@ h1 {
 h2 {
   font-weight: bold;
   padding: 0 0 2rem 0;
+  line-height: 1.5;
 }
 
 h3 {
@@ -94,9 +95,13 @@ p {
 }
 
 .testimonial-img {
-  width: 10%;
+  width: 20%;
   border-radius: 50%;
   margin: 2rem;
+}
+
+.carousel-item {
+  padding: 7% 15%;
 }
 
 #press {
