@@ -114,3 +114,13 @@ p {
   width: 15%;
   margin: 2rem 2rem 5rem;
 }
+
+/* PRICING SECTION */
+#pricing {
+  padding: 10rem;
+  text-align: center;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+}
